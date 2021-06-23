@@ -9,7 +9,7 @@ Your Bee node needs BZZ to be able to properly interact with the network. In ord
 
 To bridge your XDAI, you may use [omni bridge](https://omni.xdaichain.com/bridge).
 
-To work out what your node's Ethereum address is, please consult your relevant installation guide or check your logs!
+To work out what your node's Ethereum address is, please consult your relevant installation guide or check your logs! cao !
 
 ## Testnet
 
